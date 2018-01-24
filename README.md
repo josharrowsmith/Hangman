@@ -9,9 +9,9 @@ The users will be allowed to play hangman against the server and the server woul
 per user using multithreading.
 
 
-# Screenshots
-<img src="1.PNG" alt="some text"  width="3000" height="3000">
+# Demo
 
+# Screenshots
 ![screenshots](1.PNG)
 ![screenshots](2.PNG)
 ![screenshots](3.PNG)

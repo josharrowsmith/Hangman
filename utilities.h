@@ -11,7 +11,7 @@
 #include <time.h>
 #include <stdbool.h>
 
-
+//struct
 struct Hang {
     char *word1;
     struct Hang * next;
